@@ -1,2 +1,2 @@
-# Data-Analysis-on-Titanic-Datasett
-Data Analysis Project ( Intermediate Level ) on Titanic Dataset. 
+# Data Analysis & Data Science Project ( Intermediate Level ) on Titanic Dataset. 
+This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone will survive in Titanic ship based on their features
